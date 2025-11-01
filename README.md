@@ -28,7 +28,7 @@ The dashboard uses a dataset with the following fields:
 
 ## Technologies Used
 - **Power BI Desktop** for creating dashboards and visualizations.  
-- Optional: Excel or CSV files for dataset input.  
+- Excel/CSV files for dataset input.  
 
 ## Author
 **Oabile Moroka**  
