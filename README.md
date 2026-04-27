@@ -19,7 +19,7 @@ The dashboard uses a dataset with the following fields:
 - `sum of Amount`, `Profit`, `Quantity`  
 - `Category & sub category`, `City`, `Customer Name`, `Payment Mode`  
 - `Order Date`, `Year-Month`  
-> You can replace this with your own `.csv` or `.xlsx` file if needed.
+- You can replace this with your own `.csv` or `.xlsx` file if needed.
 
 ## How to Use
 1. Open the `SALES DASHBOARD PROJECT.pbix' file in **Power BI Desktop**.  
@@ -32,7 +32,7 @@ The dashboard uses a dataset with the following fields:
 
 ## Author
 **Oabile Moroka**  
-Email: oabilemoroka@gmail.com  
+**Email: oabilemoroka@gmail.com**
 
 
 ---
