@@ -24,7 +24,7 @@ The dashboard uses a dataset with the following fields:
 ## How to Use
 1. Open the **'SALES DASHBOARD PROJECT.pbix'** file in Power BI Desktop.  
 2. Explore the dashboard visuals and interact with slicers to filter the data.  
-3. Analyze trends, top-performing categories, cities, and customers.  
+3. **Analyze trends**, **top-performing** **categories**, **cities**, and **customers**.  
 
 ## Technologies Used
 - **Power BI Desktop** for creating dashboards and visualizations.  
