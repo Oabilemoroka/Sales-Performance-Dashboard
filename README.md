@@ -10,6 +10,7 @@ It provides a clear view of **Total Sales, Profit, Quantity Sold**, and **Custom
 - **Summary Cards**: Total Sales, Total Profit, Total Quantity, Total Customers  
 - **Amount by Category**
 - **Amount by Payment Mode**
+- 
 - **Monthly Sales Trend**
 - **Top Cities and Customers**
 - **Interactive Slicers**:
@@ -27,8 +28,8 @@ The dashboard uses a dataset with the following fields:
 3. **Analyze trends**, **top-performing** **categories**, **cities**, and **customers**.  
 
 ## Technologies Used
-- **Power BI Desktop** for creating dashboards and visualizations.  
-- Excel/CSV files for dataset input.  
+- **Power BI Desktop for creating dashboards and visualizations**.  
+- Excel/CSV files for dataset input.   
 
 ## Author
 **Oabile Moroka**  
