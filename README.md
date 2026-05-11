@@ -1,6 +1,6 @@
 # Sales-Performance-Dashboard
 
-![Dashboard Preview](DASHBOARD.png)  
+![To preview the Dashboard Preview](DASHBOARD.png)  
 
 ## Overview
 This project is an **interactive Power BI Sales Dashboard** designed to visualize and analyze sales performance.  
@@ -28,7 +28,7 @@ The dashboard uses a dataset with the following fields:
 3. **Analyze trends**, **top-performing** **categories**, **cities**, and **customers**.  
 
 ## Technologies Used
-- **Power BI Desktop for creating dashboards and visualizations**.  
+- **Power BI Desktop** for creating dashboards and visualizations.  
 - Excel/CSV files for dataset input.   
 
 ## Author
