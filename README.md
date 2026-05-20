@@ -10,7 +10,6 @@ It provides a clear view of **Total Sales, Profit, Quantity Sold**, and **Custom
 - **Summary Cards**: Total Sales, Total Profit, Total Quantity, Total Customers  
 - **Amount by Category**
 - **Amount by Payment Mode**
-- 
 - **Monthly Sales Trend**
 - **Top Cities and Customers**
 - **Interactive Slicers**:
