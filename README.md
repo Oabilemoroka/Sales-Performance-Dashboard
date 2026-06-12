@@ -35,6 +35,6 @@ The dashboard uses a dataset with the following fields:
 **Email: oabilemoroka@gmail.com**
 
 
-🔗LinkedIn: Oabile Moroka
+**LinkedIn: Oabile Moroka**
 
 
